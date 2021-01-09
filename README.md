@@ -13,3 +13,7 @@ public class MyFirstJavaProgram {
 }
 
 // I LOVE YOU
+
+
+
+scp -r narprasad@sv2lxjiras01.corp.equinix.com:/apps/opt/gsejira/application-data/jira/import/attachments
