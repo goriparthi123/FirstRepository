@@ -11,3 +11,5 @@ public class MyFirstJavaProgram {
       System.out.println("Hello World - A"); // prints Hello World
    }
 }
+
+// I LOVE YOU
